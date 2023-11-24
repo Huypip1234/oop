@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/chuhuy/Data/DU_LIEU_KHONG_QUAN_TRONG/DAI_HOC/oop",
-      "program": "/Users/chuhuy/Data/DU_LIEU_KHONG_QUAN_TRONG/DAI_HOC/oop/build/Debug/outDebug"
+      "cwd": "/Users/chuhuy/Data/DU_LIEU_KHONG_QUAN_TRONG/DAI_HOC/oop/spoji",
+      "program": "/Users/chuhuy/Data/DU_LIEU_KHONG_QUAN_TRONG/DAI_HOC/oop/spoji/build/Debug/outDebug"
     }
   ]
 }
