@@ -1,6 +1,6 @@
 ---
 triple:          'x86_64-apple-darwin'
-binary-path:     '/Users/chuhuy/Data/DU_LIEU_KHONG_QUAN_TRONG/DAI_HOC/oop/spoji/output/cong2so'
+binary-path:     '/Users/chuhuy/Data/DU_LIEU_KHONG_QUAN_TRONG/DAI_HOC/oop/spoji/output/baihai'
 relocations:
   - { offsetInCU: 0x87B2, offset: 0x87B2, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB7v160006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x4F0, symBinAddr: 0x100003420, symSize: 0x50 }
   - { offsetInCU: 0x9239, offset: 0x9239, size: 0x8, addend: 0x0, symName: __ZNSt3__1rsB7v160006IcNS_11char_traitsIcEEEERNS_13basic_istreamIT_T0_EES7_RS4_, symObjAddr: 0x690, symBinAddr: 0x1000035C0, symSize: 0x180 }
