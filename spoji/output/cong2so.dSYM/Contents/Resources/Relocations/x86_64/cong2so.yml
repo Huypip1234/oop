@@ -1,0 +1,11 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/chuhuy/Data/DU_LIEU_KHONG_QUAN_TRONG/DAI_HOC/OOP/spoji/output/cong2so'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003EB0, symSize: 0x40 }
+  - { offsetInCU: 0x2CA7, offset: 0x2CA7, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003EB0, symSize: 0x40 }
+  - { offsetInCU: 0x2D28, offset: 0x2D28, size: 0x8, addend: 0x0, symName: __ZN6numberC1Ev, symObjAddr: 0x40, symBinAddr: 0x100003EF0, symSize: 0x20 }
+  - { offsetInCU: 0x2D50, offset: 0x2D50, size: 0x8, addend: 0x0, symName: __ZN6number5inputEv, symObjAddr: 0x60, symBinAddr: 0x100003F10, symSize: 0x40 }
+  - { offsetInCU: 0x2D74, offset: 0x2D74, size: 0x8, addend: 0x0, symName: __ZN6number3sumEv, symObjAddr: 0xA0, symBinAddr: 0x100003F50, symSize: 0x30 }
+  - { offsetInCU: 0x2D98, offset: 0x2D98, size: 0x8, addend: 0x0, symName: __ZN6numberC2Ev, symObjAddr: 0xD0, symBinAddr: 0x100003F80, symSize: 0xA }
+...
