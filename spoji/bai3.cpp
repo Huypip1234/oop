@@ -1,4 +1,7 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <cmath>
+#include <stack>
+#include <sstream>
 
 using namespace std;
 
