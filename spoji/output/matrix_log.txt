@@ -1,0 +1,8 @@
+[2023-12-05 17:16:32] [LOG] Performing matrix addition.
+[2023-12-05 17:16:32] [LOG] Performing matrix subtraction.
+[2023-12-05 17:16:32] [LOG] Performing matrix multiplication.
+[2023-12-05 17:16:32] [LOG] Performing matrix element-wise division.
+[2023-12-05 17:18:07] [LOG] Performing matrix addition.
+[2023-12-05 17:18:07] [LOG] Performing matrix subtraction.
+[2023-12-05 17:18:07] [LOG] Performing matrix multiplication.
+[2023-12-05 17:18:07] [LOG] Performing matrix element-wise division.

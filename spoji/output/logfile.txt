@@ -1,0 +1,4 @@
+[2023-12-05 16:29:26] [LOG] This is a log message.
+[2023-12-05 16:29:26] [DEBUG] This is a debug message.
+[2023-12-05 16:29:26] [INFO] This is an info message.
+[2023-12-05 16:29:26] [ERROR] This is an error message.
